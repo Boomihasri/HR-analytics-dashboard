@@ -63,4 +63,3 @@ The project aims to analyze the survey data from data professionals to uncover i
 
 This project is a comprehensive journey through IT budget analysis and forecasting using Power BI. It offers a rich set of visualizations, interactive dashboards, and advanced features for effective data-driven decision-making.
 
-Feel free to use, adapt, and contribute to this project for mutual learning and improvement.
